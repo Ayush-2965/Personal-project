@@ -1,7 +1,7 @@
 import requests
 import tkinter as tk
 from tkinter import messagebox
-# ifsc="PYTM0123456"
+
 
 #window properties
 window=tk.Tk()
